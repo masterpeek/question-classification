@@ -3,3 +3,4 @@ Keras==2.2.4
 pythainlp==1.7.0
 tensorflow==1.15.2
 numpy==1.16.2
+deepcut==0.6.1
